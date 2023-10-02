@@ -1,6 +1,7 @@
-https://github.com/Deepak-Biswakarma-2310/Deepak-Biswakarma-2310/assets/124545628/5fac9ae1-c579-4917-8233-f360394e703c
 <h1 align="center">Hi 👋, I'm Deepak Biswakarma</h1>
 <h3 align="center">Mastering Data Alchemy: Crafting Insights from Raw Data with Precision and Passion</h3>
+
+![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1)](https://github.com/Deepak-Biswakarma-2310/Deepak-Biswakarma-2310/assets/124545628/a93caa60-7d8f-4b7c-ab72-3a1eb6d9c13e)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 

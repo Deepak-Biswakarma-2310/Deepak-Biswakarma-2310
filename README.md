@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Biswakarma</h1>
 <h3 align="center">Mastering Data Alchemy: Crafting Insights from Raw Data with Precision and Passion</h3>
 
-![output-onlinegiftools](https://github.com/Deepak-Biswakarma-2310/Deepak-Biswakarma-2310/assets/124545628/ea96e6bf-ca10-49d2-b44e-143b3507bd6e)
+![output-onlinegiftools](https://github.com/Deepak-Biswakarma-2310/Deepak-Biswakarma-2310/assets/124545628/8c5f52ab-42bc-4946-a907-3d8090ab6b41)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
